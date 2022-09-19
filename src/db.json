@@ -1,0 +1,28 @@
+{
+  "todo": [
+    {
+      "id": 1,
+      "todo": "beli motor", "category": "1"
+    },
+    {
+      "id": 1,
+      "todo": "beli gula", "category": "2"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "belanja"
+    },
+    {
+      "id": 1,
+      "name": "bersih-bersih"
+    },
+    {
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typeicode"
+  }
+}
